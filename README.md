@@ -1,2 +1,3 @@
 # Web-Scraping-Using-Python
 Web scraping is the process of extracting data from websites. It can be done using various programming languages such as Python, Java, and C++.  Web scraping is a very popular way to extract information from the internet without breaking any terms of service or violating any copyright laws. The data can come in many formats such as CSV, JSON, XML, etc.  The scraped data can be used for various purposes such as research, analytics, competitive intelligence and more. Web scraping is a very powerful tool that can be used to gather a lot of information about a website or domain and its content in just one go.
+#SUBASHPALVEL #subashpalvel #SubashPalvel #Subash_Palvel
